@@ -1,11 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
+  "applinks": {
+       "apps": [],
         "details": [
-            {
-                "appID": "EYP853985W.com.tymebank.smartapp.uat3",
-                "paths": ["*"]
-            }
-        ]
+           {
+               "appID":"EYP853985W.com.tymebank.smartapp.uat3”,
+               "paths":[ "*" ]
+           }
+         ]
     }
 }
